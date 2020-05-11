@@ -1,4 +1,4 @@
-# LanChatRoom
+# LanChatRoom For Linux/Mac
 Simply Lan Chat Application in C++ using TCP server and multithreading
 
  This program handles multiple clients using multithreading,each client can send messages to some other client of his/her wish, client can also disconnect from server by just typing 'quit' command.
